@@ -1,0 +1,4 @@
+2025-05-08 | Income | adfa | 200.00
+2025-05-06 | Income | adf | 144.00
+2025-05-14 | Expense | load | -50.00
+2025-05-14 | Expense | tuition | -45000.00
